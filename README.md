@@ -17,5 +17,5 @@ Test repo for edX
 
 Exercise: Match Data and Build Charts with Google Sheets												Question 1
 
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQO4tloYLFncL1A0I7ZUicJyI4isCQg0UyOofxLMBG7k0ZEMLhM36uua1aU95lejd9GT7VI4eJLZX5p/pubchart?oid=800261114&amp;format=interactive"></iframe>
+<iframe width="100%" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQO4tloYLFncL1A0I7ZUicJyI4isCQg0UyOofxLMBG7k0ZEMLhM36uua1aU95lejd9GT7VI4eJLZX5p/pubchart?oid=800261114&amp;format=interactive"></iframe>
 
