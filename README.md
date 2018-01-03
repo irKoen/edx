@@ -1,6 +1,12 @@
 # edx
-test
-https://irkoen.github.io/edx/ bananen zijn krom
+
+Test repo for edX
+
+ Section 2: Create and Embed Charts on Your Site Exercise: 
+ Match Data and Build Charts with Google Sheets Exercise -> Match Data and Build Charts with Google Sheets
 
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvlQ2uBoIPhK3anYUQ4YGJCisO5N2z9Z5mqPW2dujhTW8yO7R-7Ogy_oR83oWOHXloxfs7povvePMz/pubchart?oid=1872829911&amp;format=interactive"></iframe>
+
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTVDHzNAtBLwCrURJVA9LB-b4OtK4_t2hL96ORUc2xWGa2gs68X6evW8rSNihXOuk7_27PR0KqhsNQU/pubchart?oid=289373298&amp;format=interactive"></iframe>
