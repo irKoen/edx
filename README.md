@@ -22,3 +22,7 @@ Exercise: Match Data and Build Charts with Google Sheets												Question 1
 
 
 <iframe src="https://public.tableau.com/views/edXscatterplot/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0"></iframe> 
+
+ <iframe src="https://irkoen.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
+ 
+ <iframe src="https://irkoen.github.io/highcharts-scatter-csv" width="90%" height="350"></iframe>
